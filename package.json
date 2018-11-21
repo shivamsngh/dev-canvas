@@ -1,0 +1,18 @@
+{
+  "name": "bizpage",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
